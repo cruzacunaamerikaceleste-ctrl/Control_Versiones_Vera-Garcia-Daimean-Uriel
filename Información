@@ -1,1 +1,7 @@
 Un repositorio de datos es una infraestructura centralizada (bases de datos, servidores o archivos digitales) diseñada para almacenar, organizar, gestionar y preservar conjuntos de datos, documentos o código fuente
+Puede denominarse como una gran infraestructura de bases de datos o varias bases de datos que recogen, gestionan y almacenan conjuntos de datos para su análisis, intercambio y elaboración de informes.
+Facilitan el acceso abierto, la seguridad y la organización de la información en entornos científicos o de desarrollo de software.
+Caracteristicas:
+FAIR: Cumplen con los principios de ser Findable (Localizables), Accessible (Accesibles), Interoperable (Interoperables) y Reusable (Reutilizables).
+DOI: Asignan un Identificador de Objeto Digital (DOI) para citar los datos correctamente.
+Metadatos: Incluyen descripciones detalladas para facilitar su búsqueda y comprensión

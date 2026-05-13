@@ -1,1 +1,5 @@
 Un repositorio de datos es una infraestructura centralizada (bases de datos, servidores o archivos digitales) diseñada para almacenar, organizar, gestionar y preservar conjuntos de datos, documentos o código fuente
+Los datos pueden ser estructurados, semiestructurados o no estructurados y suelen estar acompañados de metadatos que facilitan su búsqueda y comprensión.
+Lo que hace que un repositorio sea útil es que admite el control de versiones. Esto significa que se registra cada cambio: quién lo realizó, cuándo se realizó y por qué. Si algo se rompe o necesita revisarse, 
+siempre puedes volver a una versión anterior.
+Si trabajas en un repositorio, tú y tus compañeros de equipo podéis contribuir al mismo tiempo. No tienes que esperar a que otra persona termine, ni preocuparte por sobrescribir el trabajo de los demás.
